@@ -11,7 +11,7 @@ After completing this exercise, you should be able to discuss or answer the foll
 - How do you use a script tag to write JavaScript directly in the HTML document?
 <Script> "Insert javascript code here" <Script>
 - How do you use a script tag to load an external JavaScript file?
-<Script src= "file name.js">
+<Script src= "file name.js"></script>
 
 ## Notes
 
